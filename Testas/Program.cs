@@ -12,7 +12,7 @@ namespace Testas
 {
     class Program
     {
-        // Message two a
+        // Message two a 2
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
